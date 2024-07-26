@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+}
+.mol{
+    color: rgb(249, 246, 246);
+    width: 350px;
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    margin: 0 auto;
+}
+.qora{
+ width: 80%;
+ height: 500px;border: 3px solid red;
+ margin: auto;
+ margin-top: 100px;
+ background-color: black;
+}
+.yashil{
+    background-color: aqua;
+    width: 80%;
+    margin: auto;
+    height: 40%;font-size: 30px;
+    text-align: center;
+}
+.yashil{
+    background-color: aqua;
+    width: 80%;
+    margin: auto;
+    height: 40%;font-size: 30px;
+    text-align: center;
+}
+
+
+    
+
